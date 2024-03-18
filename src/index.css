@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Poppins, "sans-serif";
+  color-scheme: light dark;
+  color: #f3f3f3;
+  background-color: #0B1215;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+font-poppins{
+  font-family: 'Poppins',sans-serif;;
+}
