@@ -1,4 +1,4 @@
-function skill() {
+export default function skill() {
 
     const allskills = [
         {
@@ -23,5 +23,3 @@ function skill() {
         </div>
     )
 }
-
-export
